@@ -1,0 +1,28 @@
+*.class
+*.swp
+*.swo
+.DS_Store
+.vscode/*
+
+target/*
+temp/*
+tmp/*
+doc/node_modules/*
+
+# Intellij specific
+.idea/*
+*.iml
+*.userlibraries
+
+# Eclipse specific
+.classpath
+.project
+.settings/*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/target/
+/.idea/
