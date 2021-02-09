@@ -1,4 +1,4 @@
-package com.test.buildteam;
+package com.buildteam;
 
 public enum PlayerType {
     STRIKER,

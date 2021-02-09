@@ -1,4 +1,4 @@
-package com.test.buildteam;
+package com.buildteam;
 
 import java.io.BufferedReader;
 import java.io.IOException;
